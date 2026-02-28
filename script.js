@@ -1,11 +1,11 @@
 const gifStages = [
     "https://media.tenor.com/nzqgaIlolDMAAAAi/mickey-emoji.gif",    // 0 normal
     "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",  // 1 confused
-    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",  // 2 pleading
-    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",  // 3 sad
-    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",  // 4 sadder
-    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif", // 5 devastated
-    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",  // 6 very devastated
+    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",             // 2 pleading
+    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",             // 3 sad
+    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",       // 4 sadder
+    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",             // 5 devastated
+    "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif",               // 6 very devastated
     "https://media.tenor.com/E9jJ5reo7dkAAAAj/mickey-disney.gif"  // 7 crying runaway
 ]
 
